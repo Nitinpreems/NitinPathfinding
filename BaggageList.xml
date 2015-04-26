@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<BagList>
+   <Bag>
+      <BagNumber>0001</BagNumber>
+      <BagEntryPoint>Concourse_A_Ticketing</BagEntryPoint>
+      <FlightId>UA12</FlightId>
+   </Bag>
+   <Bag>
+      <BagNumber>0002</BagNumber>
+      <BagEntryPoint>A5</BagEntryPoint>
+      <FlightId>UA17</FlightId>
+   </Bag>
+   <Bag>
+      <BagNumber>0003</BagNumber>
+      <BagEntryPoint>A2</BagEntryPoint>
+      <FlightId>UA10</FlightId>
+   </Bag>
+   <Bag>
+      <BagNumber>0004</BagNumber>
+      <BagEntryPoint>A8</BagEntryPoint>
+      <FlightId>UA18</FlightId>
+   </Bag>
+   <Bag>
+      <BagNumber>0005</BagNumber>
+      <BagEntryPoint>A7</BagEntryPoint>
+      <FlightId>ARRIVAL</FlightId>
+   </Bag>
+   
+</BagList>
